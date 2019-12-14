@@ -2,6 +2,9 @@ package io.javabrains.springsecurityjwt.models;
 
 import java.io.Serializable;
 
+/*
+ * Simple POJO.
+ */
 public class AuthenticationRequest implements Serializable {
 
 
